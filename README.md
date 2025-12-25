@@ -1,16 +1,59 @@
-# React + Vite
+# 🚀 Foysal Ahamed Ovi — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This project showcases my skills, projects, and experience as a **Frontend / MERN Stack Developer**.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** https://your-portfolio-link.com  
+📂 **GitHub Repo:** https://github.com/your-username/your-repo-name
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hi, I'm **Foysal Ahamed Ovi**, a passionate **MERN Stack Developer** focused on building modern, responsive, and user-friendly web applications. 
 
-## Expanding the ESLint configuration
+- 💡 Strong in JavaScript & React
+- ⚛️ Love working with React, Tailwind CSS, and modern UI
+- 🌱 Currently improving problem-solving & DSA
+- 🎯 Goal: Crack a job at a top tech company
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React
+- React Router DOM
+- Tailwind CSS
+- Vite
+
+**Backend (if applicable)**
+- Node.js
+- Express.js
+- MongoDB
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Yarn
+
+---
+
+## ✨ Features
+
+- Responsive design (Mobile / Tablet / Desktop)
+- Clean & modern UI
+- Sidebar navigation
+- Dynamic routing with React Router
+- Reusable components
+- Fast performance using Vite
+
+---
+
+## 📸 Screenshots
+
+> _(Optional)_  
+> Add screenshots of your homepage, projects section, and contact page.
+
+```md
+![Home Page](./screenshots/home.png)
