@@ -5,7 +5,7 @@ const Main = () => {
   return (
     <div className="flex">
       <Sidebar></Sidebar>
-      <div className="ml-5 mt-5">
+      <div className="lg:ml-16.25 font-serif">
         <Outlet />
       </div>
     </div>
