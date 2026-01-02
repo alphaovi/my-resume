@@ -7,8 +7,9 @@ const Introduction = () => {
       <InnovateButton></InnovateButton>
       <h1 className="text-7xl  text-white font-bold ">Full Stack</h1>
       <p className="mt-2 text-7xl font-bold text-brand-gradient">Developer</p>
-      <div className="mt-2 text-2xl">
+      <div className="mt-2 text-2xl text-white">
       <Typewriter
+      
         options={{
           strings: ["Tech Enthusiast", "Computer Science & Engg. Student"],
           autoStart: true,
