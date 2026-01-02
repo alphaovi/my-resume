@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a **Frontend / MERN Stack Developer**.
 
-🔗 **Live Site:** https://your-portfolio-link.com  
+🔗 **Live Site:** https://foysalahamedovi.netlify.app  
 📂 **GitHub Repo:** https://github.com/your-username/your-repo-name
 
 ---
