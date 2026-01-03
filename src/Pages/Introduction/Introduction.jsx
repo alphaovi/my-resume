@@ -1,5 +1,7 @@
 import Typewriter from "typewriter-effect";
 import InnovateButton from "./InnovateButton";
+import { GoProjectSymlink } from "react-icons/go";
+import { MdForwardToInbox } from "react-icons/md";
 
 const Introduction = () => {
   return (
@@ -22,7 +24,7 @@ const Introduction = () => {
       </p>
 
       <div className="mt-5 flex gap-5">
-        <button className="btn rounded-full bg-[#161725] border-none text-white transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110  ">
+        <button className="btn  rounded-full bg-[#161725] border-none text-white transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110  ">
           React
         </button>
         <button className="btn rounded-full bg-[#161725] border-none text-white transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 ">
@@ -34,6 +36,11 @@ const Introduction = () => {
         <button className="btn rounded-full bg-[#161725] border-none text-white transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 ">
           Mongodb
         </button>
+      </div>
+
+      <div className="mt-10 flex gap-5 ">
+        <button className="btn w-32 h-9  text-lg font-thin border-none transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-[#161725] hover:text-white">Projects <GoProjectSymlink /></button>
+        <button className="btn w-32 h-9  text-lg font-thin border-none transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-[#161725] hover:text-white">Contact <MdForwardToInbox /></button>
       </div>
     </div>
   );
